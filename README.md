@@ -1,4 +1,5 @@
 # devops-aula02
 Johnny Depp
-Will Smith
+Megan Fox
 Adam Sandler
+Angelina Jolie
