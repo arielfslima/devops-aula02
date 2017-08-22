@@ -1,4 +1,4 @@
 # devops-aula02
-Johnny Depp
-Will Smith
-Adam Sandler
+Johnny Depp<br/>
+Will Smith<br/>
+Adam Sandler<br/>
